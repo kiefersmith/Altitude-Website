@@ -6,7 +6,7 @@ date: 2017-01-22
 comments: false
 ---
     
-<center><a href="http://kiefersmith.github.io/about"><b>Kiefer Smith</b></a>an aspiring data scientist.</center>
+<center><a href="http://kiefersmith.github.io/about"><b>Kiefer Smith</b></a> is an aspiring data scientist.</center>
 
 ## Features
 * Minimal, you can focus on your content
