@@ -9,15 +9,14 @@ comments: false
 <center><a href="http://kiefersmith.github.io/about/"><b>Kiefer Smith</b></a> is an aspiring data scientist.</center>
 
 ## Work Experience
-* Real Estate Agent at Fonville Morisey (2016-2017)
-* Student Assistant
+### Real Estate Agent
+#### Fonville Morisey Realty | Raleigh-Durham, NC (2016-2017)
+	As a member of the Fonville Morisey Lochmere team, I focus on combining knowledge of local real estate markets and trends with a highly customer-centric attitude to make my client’s experience with buying, selling, or renting a home the most valuable experience possible.
 
-## Preview
+### Student Assistant
+#### Belk Library & Information Commons | Boone, NC  (2014-2016)
+	As a member of the Student Assistant team at Appalachian State library, my primary assignment was at the front desk maintaining best circulation practices, troubleshooting any challenges patrons may have, and assisting with student research.  
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+##
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
