@@ -20,6 +20,12 @@ As a member of the Fonville Morisey Lochmere team, I focus on combining knowledg
 
 ### Belk Library & Information Commons | Boone, NC  (2014-2016)
 
-As a member of the Student Assistant team at Appalachian State library, my primary assignment was at the front desk maintaining best circulation practices, troubleshooting any challenges patrons may have, and assisting with student research.  
+As a member of the Student Assistant team at Appalachian State library, my primary assignment was at the front desk maintaining best circulation practices, troubleshooting any challenges patrons may have, and assisting with student research.
+
+# Education
+
+## Appalachian State University
+
+### Bachelor's Degree, Environmental Economics & Policy (2012-2015)  
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
