@@ -5,8 +5,6 @@ tags: [about, personal]
 date: 2017-01-22
 comments: false
 ---
-    
-<center><a href="http://kiefersmith.github.io/about/"><b>Kiefer Smith</b></a> is an aspiring data scientist.</center>
 
 # Work Experience
 
@@ -28,4 +26,4 @@ As a member of the Student Assistant team at Appalachian State library, my prima
 
 ### Bachelor's Degree, Environmental Economics & Policy (2012-2015)  
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Check out my projects too.](https://kiefersmith.github.io/projects/){: .btn}
