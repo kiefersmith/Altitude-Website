@@ -38,13 +38,13 @@ My day job as a real estate agent requires a myriad of skills, ranging from acco
 
 ![screen-shot-2017-02-15-at-11-35-42-am](https://realdataweb.files.wordpress.com/2017/02/screen-shot-2017-02-15-at-11-35-42-am.png)
 
-{% raw %}
+~~~ R
 walden_creek <- read_csv("~/Desktop/walden creek.csv")
 attach(walden_creek)
 adds <- paste(FULLADDR, POSTAL_CIT, "NC", "27523", sep = ",")
 detach(walden_creek)
 write.table(adds, "adds.csv", sep = ",")
-{% endraw %}
+~~~
 
 
 Short and sweet, but I thought this was an interesting way to use data for a practical purpose.  People seem to be using R in exciting ways these days - if you see any creative, different projects please share.
