@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Comparable Sales Search"
+date:   2017-01-24
+excerpt: ""
+project: true
+tag:
+- project
+- R
+comments: true
+---
+
+<iframe src="https://kiefer.shinyapps.io/housesearch/" style="border: none; width: 750px; height: 600px" align="center"></iframe>
