@@ -25,5 +25,19 @@ As a member of the Student Assistant team at Appalachian State library, my prima
 ## Appalachian State University
 
 ### Bachelor's Degree, Environmental Economics & Policy (2012-2015)  
+
+# Skills and Achievements
+
+## Programming
+
+### I am well-versed in R and know some Python.
+
+## Brashear Prize
+
+### In the spring of 2016, I was awarded the Brashear Prize for my paper "The effect of being a high-usage oil nation on national GDP."
+
+## Spanish Language
+
+### I am able to speak, read, and write the Spanish language.
       
 [Check out my projects too.](https://kiefersmith.github.io/projects/){: .btn}

@@ -30,17 +30,12 @@ disqus_shortname:   kiefersmith
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
+
 email:              kieferisgreat@gmail.com
 twitter:            realest8agent
 facebook:           realest8agent
 github-url:         https://github.com/kiefersmith
+
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          ksmithrealty
 #xing:              username
