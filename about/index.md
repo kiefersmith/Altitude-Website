@@ -14,17 +14,27 @@ comments: false
 
 As a member of the Fonville Morisey Lochmere team, I focus on combining knowledge of local real estate markets and trends with a highly customer-centric attitude to make my client’s experience with buying, selling, or renting a home the most valuable experience possible.
 
+## Forecasting for New Hill Brewing
+
+### Self-employed | Raleigh-Durham, NC (2016)
+
+I created a pro forma for a startup brewery, New Hill Brewing Company. Data were collected through interviews, industry surveys, and published datasets. Based on this data, revenue and cost projections were created using Excel. 
+
 ## Student Assistant
 
 ### Belk Library & Information Commons | Boone, NC  (2014-2016)
 
 As a member of the Student Assistant team at Appalachian State library, my primary assignment was at the front desk maintaining best circulation practices, troubleshooting any challenges patrons may have, and assisting with student research.
 
+<hr>
+
 # Education
 
 ## Appalachian State University
 
-### Bachelor's Degree, Environmental Economics & Policy (2012-2015)  
+### Bachelor's Degree, Environmental Economics & Policy (2012-2015)
+
+<hr>
 
 # Skills and Achievements
 
