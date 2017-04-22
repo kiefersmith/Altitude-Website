@@ -7,9 +7,6 @@ link: https://realdataweb.wordpress.com/2017/01/06/free-book-r-for-data-science/
 slug: free-book-r-for-data-science
 title: Free Book - R for Data Science
 wordpress_id: 65
-categories:
-- Programming
-- R
 tags:
 - book
 - data

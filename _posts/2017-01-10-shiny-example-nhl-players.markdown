@@ -7,8 +7,6 @@ link: https://realdataweb.wordpress.com/2017/01/10/shiny-example-nhl-players/
 slug: shiny-example-nhl-players
 title: Shiny Example - NHL Players
 wordpress_id: 81
-categories:
-- R
 tags:
 - analysis
 - data

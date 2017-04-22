@@ -7,9 +7,6 @@ link: https://realdataweb.wordpress.com/2017/02/15/creating-a-mailing-list-in-qg
 slug: creating-a-mailing-list-in-qgis-and-r
 title: Creating a Mailing List in QGIS and R
 wordpress_id: 128
-categories:
-- Programming
-- R
 tags:
 - '2017'
 - data science
@@ -38,14 +35,12 @@ My day job as a real estate agent requires a myriad of skills, ranging from acco
 
 ![screen-shot-2017-02-15-at-11-35-42-am](https://realdataweb.files.wordpress.com/2017/02/screen-shot-2017-02-15-at-11-35-42-am.png)
 
-~~~ R
-walden_creek <- read_csv("~/Desktop/walden creek.csv")
+[code language="R"]walden_creek <- read_csv("~/Desktop/walden creek.csv")
 attach(walden_creek)
 adds <- paste(FULLADDR, POSTAL_CIT, "NC", "27523", sep = ",")
 detach(walden_creek)
 write.table(adds, "adds.csv", sep = ",")
-~~~
-
+[/code]
 
 Short and sweet, but I thought this was an interesting way to use data for a practical purpose.  People seem to be using R in exciting ways these days - if you see any creative, different projects please share.
 

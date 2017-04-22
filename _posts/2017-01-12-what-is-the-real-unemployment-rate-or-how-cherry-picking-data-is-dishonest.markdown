@@ -18,7 +18,7 @@ tags:
 - video
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hn6JWzoKv14" frameborder="0" allowfullscreen></iframe>
+[youtube https://www.youtube.com/watch?v=Hn6JWzoKv14]
 
 This video by the [vlogbrothers](https://www.youtube.com/channel/UCGaVdbSav8xWuFWTadK6loA) does a great job at breaking down what the unemployment rate in America really means, but also exemplifies how reporting data improperly can cause issues.  There are six main ways(probably more) to measure unemployment!  Mixing measurement types or presenting one out of context can distort what is happening in reality.
 
