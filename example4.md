@@ -13,7 +13,7 @@ permalink: /projects/
             <a class="btn waves-effect white grey-text darken-text-2">button</a>
           </div>
           <div class="carousel-item red white-text active" href="#one!" style="z-index: 0; opacity: 1; display: block; transform: translateX(0px) translateX(0px) translateX(0px) translateZ(0px);">
-            <h2>First Panel</h2>
+            <h2>Dashboards</h2>
             <p class="white-text">This is your first panel</p>
           </div>
           <div class="carousel-item amber white-text" href="#two!" style="transform: translateX(0px) translateX(953.906px) translateZ(0px); z-index: -1; opacity: 1; display: block;">
