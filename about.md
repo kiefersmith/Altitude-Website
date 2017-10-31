@@ -9,7 +9,12 @@ permalink: /about/
 <div class="section">
 	<div class="row">
 		<div class="col s12 m4 l4">
-		test
+		Kiefer
+		</div>
+		<div class="col s12 m4 l4">
+		Dan
+		</div>
+		<div class="col s12 m4 l4">
 		</div>
 		</div>
 		</div>
