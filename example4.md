@@ -10,7 +10,10 @@ permalink: /projects/
     <div class="row">
           <div class="carousel carousel-slider center" data-indicators="true" data-namespace="DIVcarouselcarousel-slider1" style="height: 400px;">
           <div class="carousel-fixed-item center with-indicators">
-            <a class="btn waves-effect white grey-text darken-text-2" href="danemery.shinyapps.io/app_energy">Check it out.</a>
+            <a href="danemery.shinyapps.io/app_energy">
+            <a class="btn waves-effect white grey-text darken-text-2">Check it out.
+            </a>
+            </a>
           </div>
           <div class="carousel-item red white-text active" style="z-index: 0; opacity: 1; display: block; transform: translateX(0px) translateX(0px) translateX(0px) translateZ(0px);">
           	<h2>Peacock Hall Dashboard</h2>
