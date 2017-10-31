@@ -15,8 +15,7 @@ permalink: /projects/
           <div class="carousel-item red white-text active" href="#one!" style="z-index: 0; opacity: 1; display: block; transform: translateX(0px) translateX(0px) translateX(0px) translateZ(0px);">
             <h2>Dashboards</h2>
             <p class="white-text">Your information, visualized.</p>
-            <a href="https://public.tableau.com/profile/kiefer.smith#!/vizhome/RealEstateComparison_0/PastThreeYears" class="portfolio-box">
-                    <img src="img/portfolio/tableau.png" class="img-responsive" alt="">
+            
           </div>
           <div class="carousel-item amber white-text" href="#two!" style="transform: translateX(0px) translateX(953.906px) translateZ(0px); z-index: -1; opacity: 1; display: block;">
             <h2>Second Panel</h2>
