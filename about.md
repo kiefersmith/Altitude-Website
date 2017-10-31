@@ -15,6 +15,7 @@ permalink: /about/
 		Dan
 		</div>
 		<div class="col s12 m4 l4">
+		Cameron
 		</div>
 		</div>
 		</div>
