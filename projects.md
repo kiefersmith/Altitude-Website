@@ -6,35 +6,10 @@ permalink: /projects/
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
-  <div class="slider">
-    <ul class="slides">
-      <li>
-        <img src="/assets/dash.png">
-        <div class="caption center-align">
-          <h3>Peacock Hall Energy Dashboard</h3>
-          <h5 class="light grey-text text-lighten-3">Visualizing energy consumption and production on App State's campus.</h5>
-        </div>
-      </li>
-      <li>
-        <img src="https://lorempixel.com/580/250/nature/2"> <!-- random image -->
-        <div class="caption left-align">
-          <h3>Left Aligned Caption</h3>
-          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-        </div>
-      </li>
-      <li>
-        <img src="https://lorempixel.com/580/250/nature/3"> <!-- random image -->
-        <div class="caption right-align">
-          <h3>Right Aligned Caption</h3>
-          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-        </div>
-      </li>
-      <li>
-        <img src="https://lorempixel.com/580/250/nature/4"> <!-- random image -->
-        <div class="caption center-align">
-          <h3>This is our big Tagline!</h3>
-          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-        </div>
-      </li>
-    </ul>
+  <div class="carousel">
+    <a class="carousel-item" href="https://danemery.shinyapps.io/app_energy"><img src="/assets/dash.png"><p class="white-text">This is your second panel</p></a>
+    <a class="carousel-item" href="#two!"><img src="https://lorempixel.com/250/250/nature/2"></a>
+    <a class="carousel-item" href="#three!"><img src="https://lorempixel.com/250/250/nature/3"></a>
   </div>
+
+
