@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Bringing analytics consulting to the High Country and beyond.
+Bringing analytics to the High Country and beyond.
