@@ -52,8 +52,6 @@ permalink: /work/
         </div>
       </div>
     </div>
-
-
   </div>
   </div>
 
