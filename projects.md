@@ -42,13 +42,13 @@ permalink: /work/
       <div class="card">
         <div class="card-image">
           <img src="/assets/dash.png">
-          <span class="card-title">Project 3</span>
+          <span class="card-title">Mining Bee Data</span>
         </div>
         <div class="card-content">
-          <p>Project 3</p>
+          <p>This project reveals insights garnered via beekeeper hive management data.  The linked presentation was presented to honeybee biologists in February 2018.</p>
         </div>
         <div class="card-action">
-          <a href="#">Check it out!</a>
+          <a href="https://docs.google.com/presentation/d/e/2PACX-1vSRA3PzDFLL8JwJKJwtkKhiCmuu9WCJ_ugucIR9ODIyFUzrUYx__dpJIFnvP-vJKHIluzvZoQH00ac3/pub?start=false&loop=false&delayms=30000">Check it out!</a>
         </div>
       </div>
     </div>
