@@ -33,7 +33,7 @@ permalink: /work/
           <p>This visualization, purposed for use by policymakers, displays housing metrics and forecasts for the Charlotte area.  We won the 2018 Charlotte Hackathon with this entry.</p>
         </div>
         <div class="card-action">
-          <a href="#">Check it out!</a>
+          <a href="http://52.2.69.41:3838/hackathon/">Check it out!</a>
         </div>
       </div>
     </div>
