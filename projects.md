@@ -18,7 +18,7 @@ permalink: /work/
           <p>Built using R and Shiny, this dashboard displays real-time energy production and consumption metrics for Peacock Hall on Appalachian State's Campus.</p>
         </div>
         <div class="card-action">
-          <a href="https://danemery.shinyapps.io/app_energy/">Check it out!</a>
+          <a href="http://54.165.107.40:3838/app_energy/">Check it out!</a>
         </div>
       </div>
     </div>
